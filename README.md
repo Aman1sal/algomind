@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Algomind
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Algomind is a web application dedicated to helping students succeed in landing jobs at top software companies. Our platform provides access to a vast collection of top questions related to Data Structures and Algorithms (DSA), making it easy for students to prepare for interviews and tests.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Vast collection of top questions: Algomind offers a comprehensive library of questions related to DSA, including popular interview questions from top software companies. These questions cover a wide range of topics such as arrays, linked lists, sorting algorithms, graph algorithms, and more.
 
-### `npm start`
+- User-friendly interface: Our platform is designed to be intuitive and easy to navigate. Users can quickly search for specific topics or browse through various categories to find relevant questions and solutions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Detailed explanations and solutions: Each question on Algomind comes with detailed explanations and solutions, helping students understand the underlying concepts and learn the most efficient approaches to problem-solving.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Practice mode: Users can leverage Algomind's practice mode to test their skills and assess their understanding of DSA concepts. The platform provides immediate feedback on solutions, allowing users to identify areas for improvement.
 
-### `npm test`
+- Track progress: Algomind allows users to track their progress as they solve questions and practice DSA problems. It provides insights into the number of questions attempted, accuracy rates, and areas where users might need more practice.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+To get started with Algomind, you can visit our live website at [https://algomind.netlify.app/](https://algomind.netlify.app/). From there, you can explore the available questions, search for specific topics, and start practicing.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Front-end: HTML, CSS, JavaScript
+- Back-end: Node.js, Express.js
+- Database: MongoDB
+- Hosting: Netlify
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
 
-### `npm run eject`
+We welcome contributions to Algomind to improve the platform and expand the question library. If you're interested in contributing, please follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Fork the repository on GitHub.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure they are properly tested.
+4. Commit your changes and push them to your forked repository.
+5. Submit a pull request to the main repository, explaining the purpose and details of your changes.
