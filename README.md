@@ -20,9 +20,8 @@ To get started with Algomind, you can visit our live website at [https://algomin
 
 ## Technologies Used
 
-- Front-end: HTML, CSS, JavaScript
-- Back-end: Node.js, Express.js
-- Database: MongoDB
+- Front-end: HTML, CSS, JavaScript, ReactJS
+- Back-end: Firebase
 - Hosting: Netlify
 
 ## Contributing
